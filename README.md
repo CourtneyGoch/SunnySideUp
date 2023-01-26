@@ -4,6 +4,8 @@
 This project is designed to retrieve weather data from from cities and display the five day forecast. 
 This will be accomplished usng local storage as well as OpenWeatherAPI.
 
+<b>Deployed project:</b> https://courtneygoch.github.io/SunnySideUp/
+
 -----------------------------------------------------------------------------------------------------
 
 <b>USER STORY</b> <br>
@@ -25,3 +27,5 @@ THEN I am again presented with current and future conditions for that city
 -----------------------------------------------------------------------------------------------------
 
 Screen Shots of working application
+<img width="1025" alt="Screen Shot 2023-01-26 at 5 03 32 PM" src="https://user-images.githubusercontent.com/116982713/214963611-7003d033-b071-40bc-9542-3999d42b99a4.png">
+<img width="1168" alt="Screen Shot 2023-01-26 at 5 04 50 PM" src="https://user-images.githubusercontent.com/116982713/214963613-7108d88d-9847-483a-a930-18c97d8398c7.png">
